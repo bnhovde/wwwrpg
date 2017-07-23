@@ -58,9 +58,9 @@ IF the user approaches an <article> or a Person schema, the dialogue will be bas
 Example:
 Name: (article author - based on http://schema.org/Person).
 Hello, traveller!
-    - 1: What can you tell me? <
-    - 2: Take me somewhere
-    - 3: I have to go
+- 1: What can you tell me? <
+- 2: Take me somewhere
+- 3: I have to go
     
 Option 1 will print out the article contents one bulk at a time. Upon completion the user can gain more XP.
 Option 2 will display any links in the article and allow the user to go there
